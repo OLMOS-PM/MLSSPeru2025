@@ -10,7 +10,9 @@ In this session, you need to complete the scripts
 
 ## Session 2: Lab Session on GPs
 
-You can run the Jupyter Notebook directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook 
+You can run the Jupyter Notebook directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). 
+
+Click on the Colab Badge to open the notebook 
 
 Introduction to Gaussian Processes Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OLMOS-PM/MLSSPeru2025/blob/main/Lectures/Mauricio%20Alvarez/Python/Introduction_to_GPs_MLSS.ipynb#scrollTo=4VSYckTICC-L)
 
