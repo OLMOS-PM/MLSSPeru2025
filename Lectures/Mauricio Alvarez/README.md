@@ -8,6 +8,12 @@ In this session, you need to complete the scripts
 - ``sampling_GP_to_complete_faster_rbf.py``
 - ``prediction_GPs_to_complete.py``
 
+**Solutions**
+
+- ``sampling_GP.py`` contains the solutions to the sampling questions.
+- ``prediction_GPs.py`` contains the solutions to the predictive probability.
+
+
 ## Session 2: Lab Session on GPs
 
 You can run the Jupyter Notebook directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). 
